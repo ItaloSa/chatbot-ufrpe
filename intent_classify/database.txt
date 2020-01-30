@@ -1,0 +1,49 @@
+{
+    "database": [
+        {
+            "classe": "horario",
+            "sentencas": ["qual vai ser o hor\u00e1rio de rob\u00f3tica?", "Algu\u00e9m que faz IC com Abner(circuitos) tem como perguntar a ele qual o hor\u00e1rio?", "Algu\u00e9m sabe o hor\u00e1rio das disciplinas optativas?", "Rob\u00f3tica esse per\u00edodo, foi em quais hor\u00e1rios?", "Qual hor\u00e1rio de calculo 2 nesse per\u00edodo?", "Qual o hor\u00e1rio de IP2", "Que horas come\u00e7a a aula de TC?"]                
+        }, {
+            "classe": "duvida",
+            "sentencas": ["O que voc\u00ea pode fazer?", "O que voc\u00ea faz?", "Em que voc\u00ea pode me ajudar?", "Me diga o que pode fazer", "Qual sua fun\u00e7\u00e3o?", "para que voc\u00ea serve?", "Do que voc\u00ea \u00e9 capaz?"]
+        }, {
+            "classe": "ementa",
+            "sentencas": ["Tem como enviar ementa da disciplina?", "Ementa de teoria", "Qual a ementa de algoritmos", "Assunto da cadeira de algebra", "Plano de aula de arquitetura", "Assunto das aulas de compiladores"]
+        }, {
+            "classe": "pre_requisito",
+            "sentencas": [
+                "Sabe se precisa de algum pr\u00e9 requisito para IA?", 
+                "SO tem pre requisito?", "Qual pre-requisito para prog2", 
+                "Lista de pre requisitos para projet\u00e3o", 
+                "quais a cadeiras que preciso ter pago para pagar Sistemas Operacionais", 
+                "Quais os pre-requisitos", "o que tenho que pagar antes de banco de dados ?"
+            ]
+        }, {"classe": "carga_hor\u00e1ria", "sentencas": [
+                "Sem carga hor\u00e1ria n\u00e3o serve.", 
+                "Ele disse que cumpriu a carga hor\u00e1ria", 
+                "Se der certificado e l\u00e1 tiver escrito a carga hor\u00e1ria",
+                "Qual a carga hor\u00e1ria","Quanto tempo", 
+                "Qual a ch ?", "Quantas horas"
+            ]
+        }, {"classe": "sala", "sentencas": [
+                "discreta I qual a sala?", "Algu\u00e9m sabe a sala de circuitos?",
+                "qual a sala de Prog2",
+                "onde \u00e9 a aula de calculo?"
+            ]
+        }, {"classe": "professor", "sentencas": [
+                "Quem ta dando discreta ?",
+                "qual professor de pensamento computacional", 
+                "quem eh o professor de IP2", 
+                "quem d\u00e1 matematica discreta", 
+                "qual o professor de algebra", 
+                "qual o nome do professor de prog2"
+            ]
+        }, {"classe": "estagio", "sentencas":[
+                "Como funciona eso", "como cortar eso", 
+                "trabalho dispensa eso", "estagio corta eso",
+                "como posso dispensar ESO",
+                "trabalho carteira asinada dispensa est\u00e1gio"
+            ]
+        }
+    ]
+}
