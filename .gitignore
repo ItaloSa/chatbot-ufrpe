@@ -3,6 +3,7 @@
 
 ## Custom ##
 .env
+models/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files

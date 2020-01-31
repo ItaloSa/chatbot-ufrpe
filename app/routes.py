@@ -5,12 +5,19 @@ import requests
 
 import json
 
+from app.controllers.core import handle
 from app.controllers.telegram import handle_message, set_webhook, healthcheck
 TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
 
 @app.route('/')
 def index():
     return jsonify({ 'message': 'Hello from ufrpe-bot-api' })
+
+@app.route('/core/message', methods=['POST'])
+def core_message():
+    data = request.json
+    response = handle(data['message'])
+    return jsonify(response)
 
 @app.route(f'/telegram/{TELEGRAM_TOKEN}', methods=['POST'])
 def telegram_handle():

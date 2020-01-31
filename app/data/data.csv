@@ -1,0 +1,90 @@
+codigo,disciplina,carga_horaria,turma,sala,docente,periodo,Ementa,Pré-Requesitos
+14203,Matemática Discreta I,60,BC3,CEAGRI 02 Sala 05-Térreo,Ruan Carvalho,1.0,"Lógica proposicional. Lógica de predicados de primeira ordem. Técnicas de demonstração básicas: direta, por contraposição, por redução ao absurdo, por casos. Provas existenciais construtivas e não-construtivas. Teoria dos conjuntos. Relações n-árias, binárias, de equivalência e de ordem. Funções e seqüências: injetividade e sobrejetividade. Cardinalidade: prova por diagonalização. Teoria dos números: divisibilidade, números primos, algoritmo da divisão (teorema) e aritmética modular. Definições recursivas e provas por indução. Aplicações na Computação nas áreas de: Inteligência Artificial, Métodos Formais, Bancos de Dados, Análise de Algoritmos e Criptografia. ",Não existem Pré-Requisitos para esse Componente Curricular.
+6507,Cálculo NI,60,BC3,CEAGRI 02 Sala 02 - Térreo,Michele Novais,1.0,"Funções Reais de uma Variável Real. Limite e Continuidade. Derivadas: conceito, regras e aplicações.",Não existem Pré-Requisitos para esse Componente Curricular.
+14044,Introdução à Ciência da Computação,60,BC3,CEAGRI 02 Sala 05 - Térreo,Robson Medeiros,1.0,"Evolução da Ciência da Computação. Conceitos básicos. Bases numéricas. Sistemas de
+numeração em computação. Aritmética binária. Representação de dados: números em ponto
+fixo e ponto flutuante, codificação BCD, numérica e alfanumérica. Arquitetura tradicional (von
+Neumann). Introdução à Arquitetura e Organização de Computadores através de exemplos
+hipotéticos. Noções de sistemas operacionais, utilitários, redes, tipos de linguagens,
+compiladores e interpretadores. Introdução à Ciência da Computação: a ciência, o curso e a
+profissão.
+",Não existem Pré-Requisitos para esse Componente Curricular.
+6418,Álgebra Vetorial e Linear para Computação,60,BC3,CEAGRI 02 Sala 02 - Térreo,Thiago Tanaka,1.0,Álgebra Vetorial. Álgebra Linear. Métodos Numéricos em Álgebra Linear.,Não existem Pré-Requisitos para esse Componente Curricular.
+14117,Introdução à Programação I,60,BC3,CEAGRI 01 Lab. 05,Péricles Miranda,1.0,"Introdução às linguagens de programação algorítmicas e ao desenvolvimento estruturado de programas. Tipos e estruturas elementares de dados, operadores, funções embutidas e expressões. Instruções condicionais, incondicionais e de repetição. Tipos compostos de dados: vetores, matrizes e registros. Ponteiros. Modularização, funções e procedimentos, passagem por valor e por referência, documentação.  introdução a uma linguagem de programação algorítmica popular. Introdução à organização de dados em arquivos. Noções de recursão. Problemas algorítmicos elementares de busca e ordenação.
+",Não existem Pré-Requisitos para esse Componente Curricular.
+14204,Matemática Discreta II,60,BC3,CEAGRI 02 Sala 02 - Térreo,Maigan Alcântara,2.0,"Combinatória Básica: Permutações, Combinações, binômios, ocupância, inclusão/exclusão, recorrências. Inversão de Moebius, Ações de grupos e semigrupos. Teoria dos Grafos: propriedades e teoremas fundamentais. Algoritmos em Grafos. Indução e Iteração, Órbitas e pontos fixos, Automato Celulares (AC), AC e Automatos Finitos, AC e Álgebra, AC e Computação.  ",14203 - MATEMÁTICA DISCRETA I
+6508,Cálculo NII,60,BC3,CEAGRI 02 Sala 05 - Térreo,DM,2.0,Integral de funções uma variável real. Funções reais de várias variáveis: limite e continuidade. Derivadas Parciais e Diferenciabilidade. Regra da Cadeia e derivação implícita. Máximos e Mínimos. Multiplicadores de Lagrange.,06507 - CÁLCULO NI
+6214,Algoritmos e Estrutura de Dados,60,BC3,CEAGRI 01 Lab. 05,Péricles Miranda,2.0,"Análise de Algoritmos: Notação O e Análise Assintótica. Algoritmos para pesquisa e ordenação em memória principal e secundária. Organização de arquivos. Técnicas de recuperação de informação. Listas lineares e suas generalizações: listas ordenadas, listas encadeadas, pilhas e filas. Aplicações de listas. Árvores e suas generalizações: árvores binárias, árvores de busca, árvores balanceadas (AVL), árvores B e B+. Aplicações de árvores.PROCESSO N 11827/2016-57",14117 - INTRODUÇÃO À PROGRAMAÇÃO I;14203 - MATEMÁTICA DISCRETA I
+14112,Metodologia Científica Aplicada a Computação,60,BC3,CEAGRI 02 Sala 05 - Térreo,David Edson Ribeiro,2.0,"Tipos de conhecimento. Conhecimento científico. Ciência e linguagem. Explicações científicas. Alcance, limite e estrutura de hipóteses. Leis e teorias científicas. Metodologia de pesquisa em ciências exatas: pesquisa bibliográfica, elaboração, execução e acompanhamento de projetos de pesquisa: problematização, hipóteses, métodos e seleção de amostra. Normatização de trabalhos técnico-científicos. Técnicas de coleta de dados. Análise de Dados. 
+",Não existem Pré-Requisitos para esse Componente Curricular.
+14118,Introdução à Programação II,60,BC3,CEAGRI 01 Lab. 10,Leandro Nascimento,2.0,"Paradigma orientado a objetos. Conceitos de programação orientada a objeto: abstração, generalização, modularização e encapsulamento. Sintaxe básica JAVA. Orientação a objetos com JAVA: classes e objetos, tipos abstratos de dados, objetos e mensagens, herança, polimorfismo. Arquitetura em N-camadas instanciação de padrão estilo MVC na prática. Boas práticas de programação orientada a objetos e padrão de codificação. Projeto de desenvolvimento.
+", 14117 - INTRODUÇÃO À PROGRAMAÇÃO I
+6223,Teoria da Computação,60,BC3,CEAGRI 01 Lab. 10,Valmir Macário,3.0,"Propriedades e operações com linguagens. Expressões regulares e gramáticas. Modelos de reconhecedores: autômatos finitos, autômatos a pilha, autômatos linearmente limitados, máquinas de Turing. Teorema de Kleene, equivalência entre autômatos à pilha e gramáticas. Hierarquia de Chomsky: linguagens regulares, livre de contexto, sensíveis ao contexto e recursivas. Propriedades de linguagens e funções recursivas. Tese de Church. Problemas indecidíveis: problema da parada, problema da correspondência de Post, redução entre problemas. Classes de problemas: P, NP, NP-Completo. 
+PROCESSO N 11827/2016-57","
+14203 - MATEMÁTICA DISCRETA I;14204 - MATEMÁTICA DISCRETA II"
+6325,Física Aplicada a Computação,60,BC3,CEAGRI 02 2º Andar Sala 24,DF,3.0,"Campo elétrico, Potencial elétrico, Capacitores e dielétricos. Circuitos elétricos, Campo
+magnético. Lei de Ampère. Indução Magnética. Propriedades magnéticas da matéria.
+Correntes alternadas. Equações de Maxwell. Ondas eletromagnéticas. Reflexão e
+refração da Luz. Polarização. Interferência e difração da Luz. Natureza ondulatória da
+Luz. Introdução a Física Moderna.
+",06507 - CÁLCULO NI;  06508 - CÁLCULO NII
+6214,Projeto e Análise de Algoritmos,60,BC3,CEAGRI 02 2º Andar Sala 24,Jeane Cecília,3.0,"Medidas de complexidade, análise assintótica de limites de complexidade, técnicas de prova de cotas inferiores. Exemplos de análise de algoritmos iterativos e recursivos. Técnicas de projeto de algoritmos eficientes. Programação dinâmica. Algoritmos probabilísticos. 
+PROCESSO N 11827/2016-57",14203 - MATEMÁTICA DISCRETA I;06214 - ALGORITMOS E ESTRUTURAS DE DADOS
+14063,Circuitos Digitais,60,BC3,CEAGRI 01 Lab. 05,Abner Barros,3.0,"Bases numéricas: princípio de funcionamento e padrões de representação. Representações de números inteiros e
+fracionários nos sistemas digitais: representação em complemento a dois, em ponto-fixo e em ponto-flutuante. Eletrônica
+básica: circuitos elétricos e circuitos eletrônicos básicos. Implementação de portas lógicas com transistores e diodos.
+Famílias lógicas. Circuitos lógicos combinacionais: análise e síntese. Circuitos lógicos sequenciais: análise e síntese.
+Flip-flops, registradores, e memórias. Osciladores e relógios. Dispositivos lógicos programáveis. Introdução aos sistemas
+digitais. Implementação e análise de circuitos contadores, geradores de código e autômatos finitos. Linguagens de
+Descrição de Hardware (HDL), Padrões de codificação de projeto em linguagens de descrição de hardware. Modelagem e implementação de circuitos lógicos sequenciais e combinacionais por meio do uso de linguagens de descrição de hardware. Introdução à arquitetura de computadores.
+",Não existem Pré-Requisitos para esse Componente Curricular.
+6243,Estatística Exploratória,60,BC3,CEAGRI 02 2º Andar Sala 24,DEINFO,3.0,"Experimentos aleatórios. Freqüência relativa. Probabilidade. Probabilidade condicionada.
+Variáveis aleatórias discretas e contínuas. Noções de amostragem. Distribuição de
+freqüência. Estimativas de parâmetros.Grácos. Intervalos de Conança. Teste de hipótese.
+Ajustamento.",Não existem Pré-Requisitos para esse Componente Curricular.
+14088,Banco de Dados S,60,BC3,CEAGRI 02 3º Andar Lab. 35,Andreza Leite,4.0,"Introdução aos Banco de Dados. Modelo de Dados. Modelagem Entite-Relacionamento. Projeto lógico e Físico de Banco de Dados. Sistemas de gerenciamento de bancos de dados (SGBD): arquitetura, segurança, integridade, concorrência, recuperação após falha, gerenciamento de transações. Linguagem SQL: DDL, DML, DCL. Normalização de Dados. Transações. Tecnicas de Programação em SQL. Segurança em Banco de Dados Relacional. Recuperação após Falha e Concorrência. Conectividade em Banco de Dados.
+", 06214 - ALGORITMOS E ESTRUTURAS DE DADOS
+6226,Engenharia de Software,60,BC3,CEAGRI 02 3º Andar Lab. 35,Ana Paula Furtado,4.0,Processos  de  software.  Ciclo  de  vida  de  desenvolvimento  de  software. Modelagem  de  software.  Introdução  a  Modelos  de  Qualidade  e  de  Gerenciamento  de projetos  de  software.  Ambientes  de  desenvolvimento  de  software.  Padrões  de  projeto. Técnicas de teste de software. Reuso de componentes de software.,"     14117 - INTRODUÇÃO À PROGRAMAÇÃO I;14118 - INTRODUÇÃO À PROGRAMAÇÃO II
+"
+14058,Redes de Computadores,60,BC3,CEAGRI 02 3º Andar Lab. 35,Obionor Nóbrega,4.0,"Tipos de enlace, códigos, modos e meios de transmissão. Protocolos e serviços de comunicação. Terminologia, topologias, modelos de arquitetura e aplicações. Especificação de protocolos. Internet e Intranets. Interconexão de redes. Redes de banda larga, ATM. Segurança e autenticação. Avaliação de desempenho. ",Não existem Pré-Requisitos para esse Componente Curricular.
+14064,Arquitetura e Organização de Computadores,60,BC3,CEAGRI 02 3º Andar Lab. 35,Andson Balieiro,4.0,"Organização de computadores: memórias, unidades centrais de processamento, entrada e saída. Linguagens de montagem. Modos de endereçamento e conjunto de instruções. Mecanismos de interrupção e de exceção. Barramento, comunicações, interfaces e periféricos. Subsistemas de entrada/saída. Organização hierárquica de memória. Arquiteturas RISC e CISC. Pipeline. Paralelismo de baixa granularidade. Processadores superescalares e superpipeline. Introdução à processadores vetoriais, matriciais, multiprocessadores e multicomputadores. Introdução a arquiteturas paralelas e não convencionais. Outras arquiteturas.
+",  14063 - CIRCUITOS DIGITAIS
+6252,Paradigmas de Programação,60,BC3,CEAGRI 02 3º Andar Lab. 35,Lucas Albertins,4.0,"Caracterização das linguagens de programação de computadores e de seus diferentes paradigmas de programação (lógico, procedural, funcional, orientação a objetos, concorrente, aspectos). Estudo de conceitos básicos para no que se refere a linguagens: implementação, estrutura de dados, abstração de dados, controle, tipos, escopo, subprograma, passagem de parâmetro, recursividade, sintaxe, semântica.
+PROCESSO 11827/2016-57",14117 - INTRODUÇÃO À PROGRAMAÇÃO I;14118 - INTRODUÇÃO À PROGRAMAÇÃO II
+14090,Compiladores,60,BC3,CEAGRI 02 3º Andar Lab. 37 ou sala 26 - 2º andar,Rafael Dueire,5.0,"Especificação da sintaxe de linguagens de programação com expressões regulares e gramáticas livres de contexto. Análise léxica. Análise sintática: ascendente e descendente. Geradores automáticos de lexers e parsers. Análise semântica. Geração de código intermediário e final. 
+PROCESSO N 11827/2016- 57", 06223 - TEORIA DA COMPUTAÇÃO;14117 - INTRODUÇÃO À PROGRAMAÇÃO I;14118 - INTRODUÇÃO À PROGRAMAÇÃO;14203 - MATEMÁTICA DISCRETA;14204 - MATEMÁTICA DISCRETA II;
+6251,Projeto de Desenvolvimento de Software,60,BC3,CEAGRI 01 Lab. 05,George Valença,5.0,"Instanciação de um processo de desenvolvimento de software: fluxo, atividades, papéis e produtos de trabalho. Desenvolvimento de projeto multidisciplinar em equipe. Implementação de um produto de software. Uso de padrões de projeto e de codificação de software. Realização de testes automatizados de software.
+PROCESSO 11827/2016-57",06214 - ALGORITMOS E ESTRUTURAS DE DADOS;06226 - ENGENHARIA DE SOFTWARE;14088 - BANCO DE DADOS;14117 - INTRODUÇÃO À PROGRAMAÇÃO I;14118 - INTRODUÇÃO À PROGRAMAÇÃO II
+14059,Sistemas Distribuídos,60,BC3,CEAGRI 02 3º Andar Lab. 37,Gustavo Callou,5.0,"Conceitos Básicos. Paradigmas de Linguagens de Programação Distribuída. Técnicas
+de Especificação de Sistemas. Ambientes de Suporte e Desenvolvimento de Sistemas
+Distribuídos. Estudo de Casos. Aplicação Prática.
+",14058 - REDES DE COMPUTADORES
+14065,Sistemas Operacionais,60,BC3,CEAGRI 02 3º Andar Lab. 37,Douglas Silva,5.0,"Software básico: boot e BIOS. Gerenciamento de memória. Memória virtual. Conceito de
+processo. Gerência de processador: escalonamento de processos, monoprocessamento e multiprocessamento. Concorrência e sincronização de processos. Alocação de recursos e deadlocks. Gerenciamento de arquivos. Gerenciamento de dispositivos de entrada/saída. Análise de desempenho. Sistemas operacionais para multiprocessadores. Sistemas operacionais distribuídos. Introdução a sistemas operacionais de tempo real.",14063 - CIRCUITOS DIGITAIS;14064 - ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES
+14074,Inteligência Artificial,60,BC3,CEAGRI 02 3º Andar Lab. 37 e Sala 05 - Térreo,George Cabral,5.0,"Definições de IA. Agentes Inteligentes. Resolução de problemas por meio de busca: sem informação e com informação. Buscas locais para problemas de otimização. Introdução à aprendizagem de máquina. Aprendizagem supervisionada: baseada em instâncias, aprendizagem bayesiana. árvores de decisão, introdução às redes neurais. Aprendizagem não supervisionada. Aprendizagem por reforço. Lógica Fuzzy. 
+PROCESSO N 11827/2016-57",14117 - INTRODUÇÃO À PROGRAMAÇÃO I;14118 - INTRODUÇÃO À PROGRAMAÇÃO II
+14096,Projeto de Compiladores,60,BC3,CEAGRI 01 Laboratório 15,Rafael Dueire,5.0,,
+14051,Processamento de Imagens,60,BC3,CEAGRI 02 3º Andar Lab. 39,Valmir Macário,6.0,,
+14719,Aprendizagem de Máquina,60,BC3,CEAGRI 02 3º Andar Lab. 39,Luciano Pacífico,6.0,,
+14722,Motores Gráficos,60,BC3,CEAGRI 02 3º Andar Lab. 39,João Paulo,6.0,,
+14318,Mineração de Texto,60,BC3,CEAGRI 02 Sala 05 - Térreo e Lab. 37,Rafael Ferreira,6.0,,
+6232,Teoria dos Grafos,60,BC3,CEAGRI 02 3º Andar Lab. 39,Rodrigo Souza,6.0,,
+14711,Desenv. Aplic. Para TV,60,BC3,CEAGRI 02 3º Andar Lab. 41,Douglas Silva,7.0,,
+14099,Análise de Desempenho,60,BC3,CEAGRI 02 3º Andar Lab. 43,Ermeson Andrade,7.0,,
+14066,Internet do Futuro,60,BC3,CEAGRI 02 3º Andar Lab. 41,Jeísa Domingues,7.0,,
+14010,Gerenciamento de Redes,60,BC3,CEAGRI 02 3º Andar Lab. 41,Andson Baliero,7.0,,
+14108,Análise e Projetos de Sistemas O.O,60,BC3,CEAGRI 02 3º Andar Lab. 41,Lucas Albertins,8.0,,
+14024,Banco de Dados Não Convencionais,60,BC3,CEAGRI 02 3º Andar Lab. 43,Andreza Leite,8.0,,
+14319,Gestão de Informação e Conhecimento,60,BC3,CEAGRI 02 3º Andar Lab. 43,Ricardo Souza,8.0,,
+14119,Metodologias Ágeis de Desenvolvimento de SW,60,BC3,CEAGRI 02 3º Andar Lab. 43,Suzana Sampaio,8.0,,
+,Métodos Formais,60,BC3,CEAGRI 02 3º Andar Lab. 43,Sidney Nogueira,8.0,,
+14717,Gestão de Processos de Negócios (BPM),60,BC3,CEAGRI 02 Sala 02 - Térreo,George Valença,9.0,,
+14716,Gerência de Projetos,60,BC3,CEAGRI 01 Lab. 10,Suzana Sampaio,9.0,,
+,Sistemas Multiagentes,60,BC3,CEAGRI 01 Lab. 05,Pablo Azevedo,9.0,,
+14048,Projeto de conclusão de Curso,60,BC3,CEAGRI 02 3º andar Sala 37,Danilo Araújo,9.0,,
+14203,Matemática Discreta I,60,BC4,CEAGRI-II 2º Andar Sala 24,Rafael Ferreira,,,
+14117,Introdução à Programação I,60,BC4,CEAGRI 02 3º andar Sala 39,Sidney Nogueira,,,
+14049,Trabalho de Conclusão de Curso,120,BC3,A definir,Paulo Silveira Neto,,,
+14118,Introdução à Programação II,60,BC4,CEAGRI 02 Lab. 15,Vanilson Burégio,,,
+14110,Estágio Supervisionado I,120,BC3,,Ruan,,,
+14111,Estágio Supervisionado II,120,BC3,,Ana Paula Furtado,,,
